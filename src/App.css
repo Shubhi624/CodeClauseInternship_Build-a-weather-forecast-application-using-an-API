@@ -1,0 +1,9 @@
+body {
+  margin: 100;
+  background:transparent;
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Download-Free-Weather-Background.jpg);
+}
+#root {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 0;
+}
